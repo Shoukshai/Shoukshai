@@ -1,16 +1,22 @@
-## Hi there 👋
+## About Me
+I am **Shouk**, currently in a **cybersecurity** bachelor in France <br>
+Former top 15k osu! playing for fun
 
-<!--
-**Shoukshai/Shoukshai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+- Working on **Root-Me** challenges (started 1 December 2025)
+- Learning **Rust**, and interested in GPU/Vulkan future
 
-Here are some ideas to get you started:
+## Homelab
+I maintain a small homelab used to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Run services via **Docker/Container Manager**
+- Operate a **seeding station**
+- Test configurations, apps and randoms ideas
+
+## Interests
+- Cybersecurity (obviously)
+- Graphics and GPU programming with Rust
+- Self-hosting
+- Video games
+
+***Freedom Enjoyer.***
