@@ -4,7 +4,7 @@ Former top 15k osu! playing for fun
 
 ## Current Focus
 - Working on **Root-Me** challenges (started 1 December 2025)
-- Learning **Rust**, and interested in GPU/Vulkan future
+- Learning **Rust**, and interested in GPU/Vulkan future (far future)
 
 ## Homelab
 I maintain a small homelab used to:
@@ -15,7 +15,7 @@ I maintain a small homelab used to:
 
 ## Interests
 - Cybersecurity (obviously)
-- Graphics and GPU programming with Rust
+- Performances/Optimization
 - Self-hosting
 - Video games
 
