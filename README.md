@@ -18,6 +18,7 @@ I maintain a small homelab used to:
 - Cybersecurity (obviously)
 - Performances/Optimization
 - Self-hosting
+- Figma Prototyping
 - Video games
 
 ***Freedom Enjoyer.***
