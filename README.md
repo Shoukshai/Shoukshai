@@ -6,6 +6,7 @@ List of some socials: [osu!](https://osu.ppy.sh/users/25458118), [TETR.IO](https
 ## Current Focus
 - Working on **Root-Me** challenges (started 1 December 2025)
 - Learning **Rust**, and interested in GPU/Vulkan future (far future)
+- Making my voxel based game
 
 ## Homelab
 I maintain a small homelab used to:
